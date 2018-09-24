@@ -1,0 +1,26 @@
+@relation Feature_Type_1
+@attribute Feature_1 numeric
+@attribute Feature_2 numeric
+@attribute Feature_3 numeric
+@attribute Feature_4 numeric
+@attribute Feature_5 numeric
+@attribute Feature_6 numeric
+@attribute Feature_7 numeric
+@attribute Feature_8 numeric
+@attribute Feature_9 numeric
+@attribute Feature_10 numeric
+@attribute Feature_11 numeric
+@attribute Feature_12 numeric
+@attribute Feature_13 numeric
+@attribute Feature_14 numeric
+@attribute Feature_15 numeric
+@attribute Feature_16 numeric
+@attribute Feature_17 numeric
+@attribute Feature_18 numeric
+@attribute Feature_19 numeric
+@attribute Feature_20 numeric
+@class {0,1,2}
+@data
+0.000104807,1.21858,0.0980262587119,-0.0555896981965,14.2294,0.547627,-0.732371447251,0.22298968896,8.77425,3.44704,0.108619213964,-1.46195633804,0.215438982496,0.0472978314386,0.225098161572,0.900574363485,?,%/Users/CM/Documents/PhD/LOTAASstuffs/FFA_training_data/scoregen_test/L597859_SAP2_BEAM13_riptide_cand_0016.h5
+0.00158353,1.93311,1.07755711453,3.40321956439,19.9689,1.56282,0.0537427688532,-1.2095303169,9.14372,2.25921,2.52430366007,9.35960588569,0.222789194873,0.0762422954855,0.0686345087405,-0.711608723297,?,%/Users/CM/Documents/PhD/LOTAASstuffs/FFA_training_data/scoregen_test/L600909_SAP0_BEAM0_riptide_cand_0003.h5
+0.000229277,1.20696,0.717821881696,4.07076242221,12.5205,0.468224,-0.023349291936,-0.89173348838,5.23132,0.836986,4.33780839836,32.7641311151,0.178513531134,0.0785897119853,-0.397226181497,-0.494802137926,?,%/Users/CM/Documents/PhD/LOTAASstuffs/FFA_training_data/scoregen_test/J0250+58_L352186_SAP0_BEAM1_riptide_cand_0012.h5
